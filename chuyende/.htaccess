@@ -1,0 +1,2 @@
+
+ErrorDocument 404 http://localhost:8080/bainopchuyende/chuyende/404.php
